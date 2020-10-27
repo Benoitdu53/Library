@@ -66,14 +66,7 @@ Les différents composants sont disponibles aux liens suivants :
 	
 	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les jar, ainsi que les scripts)
 	
-Pour le déploiement :
-	- Récupérer les jars qui sont dans le lien principal. 
-	- Ouvrez 3 fenêtre du terminal et tapez dans chacune d'elle et dans cet ordre.
-		- java -jar webapp-1.0-SNAPSHOT.jar
-		- web-library-0.0.1-SNAPSHOT.jar
-		- batch-library-0.0.1-SNAPSHOT.jar
-	- Allez sur http://localhost:8080/books
-	- Profitez de l'application
+
 
 ##### Auteur 
 
