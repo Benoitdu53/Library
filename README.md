@@ -66,7 +66,8 @@ Les différents composants sont disponibles aux liens suivants :
 	
 	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les scripts)
 	
-
+Pour le déploiement de l'application chaque composant à un ReadMe à suivre.Il est important de d'abord lancé l'api et après soit le client web ou le batch.
+Si problème, fermé vos terminal et relancer en suivant l'ordre API, client web et batch.
 
 ##### Auteur 
 
