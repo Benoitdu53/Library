@@ -57,7 +57,6 @@ Les différents composants sont disponibles aux liens suivants :
 	
 	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les jar, ainsi que les scripts)
 	
-Chaque repository conteitn un fichier README.md incluant la procédure de déploiement.
 
 ##### Auteur 
 
