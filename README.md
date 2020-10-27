@@ -64,7 +64,7 @@ Les différents composants sont disponibles aux liens suivants :
 	
 	- Batch : https://github.com/Benoitdu53/batch-library
 	
-	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les jar, ainsi que les scripts)
+	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les scripts)
 	
 
 
