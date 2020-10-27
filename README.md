@@ -40,7 +40,7 @@ Les outils pour le développement sont :
 - IDE : IntelliJ IDEA 
 - Java 11
 - Tomcat 9
-- Spring Boo version t2.3.3
+- Spring Boot version t2.3.3
 - Thymeleaf 
 - Base de données MySQL  8
 
