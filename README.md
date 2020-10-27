@@ -48,13 +48,14 @@ Les outils pour le développement sont :
 ##### Déploiement
 
 Les différents composants sont disponibles aux liens suivants : 
+
 	- API : https://github.com/Benoitdu53/api-library
 	
 	- client web : https://github.com/Benoitdu53/web-library
 	
 	- Batch : https://github.com/Benoitdu53/batch-library
 	
-	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les jar et les war, ainsi que les scripts)
+	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les jar, ainsi que les scripts)
 	
 Chaque repository conteitn un fichier README.md incluant la procédure de déploiement.
 
