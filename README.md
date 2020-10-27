@@ -44,8 +44,17 @@ Les outils pour le développement sont :
 - Thymeleaf 
 - Base de données MySQL  8
 
+##### Déploiement Base de données
 
-##### Déploiement
+	- L'application à été configurée pour une base de données MySQL.
+	
+	- Installer  MySQL Workbench. Téléchargement et documentation sur https://www.mysql.com/fr/products/workbench/.
+	
+	- Créer un profil utilisateur avec les droits de création et de gestion de base de données. (username='admin' & password='admin')
+	
+	- Utiliser les scripts SQL dans MySQLWorkbench dans l'ordre (  ) pour pouvoir utiliser les données. (Scripts télécharger via le github )
+
+##### Déploiement Application
 
 Les différents composants sont disponibles aux liens suivants : 
 
@@ -57,6 +66,14 @@ Les différents composants sont disponibles aux liens suivants :
 	
 	- Liens principal : https://github.com/Benoitdu53/Library ( Contient les jar, ainsi que les scripts)
 	
+Pour le déploiement :
+	- Récupérer les jars qui sont dans le lien principal. 
+	- Ouvrez 3 fenêtre du terminal et tapez dans chacune d'elle et dans cet ordre.
+		- java -jar webapp-1.0-SNAPSHOT.jar
+		- web-library-0.0.1-SNAPSHOT.jar
+		- batch-library-0.0.1-SNAPSHOT.jar
+	- Allez sur http://localhost:8080/books
+	- Profitez de l'application
 
 ##### Auteur 
 
